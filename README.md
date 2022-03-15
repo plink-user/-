@@ -22,6 +22,7 @@
 ---> [cxsecurity.com](https://cxsecurity.com "CXSECURITY.COM Free Security List")<br>
 ---> [www.cnvd.org.cn](https://www.cnvd.org.cn "国家信息安全漏洞共享平台")<br>
 ---> [osintframework.com](https://osintframework.com "开源情报框架")<br>
+---> [disk.scan.cm](https://disk.scan.cm "湛蓝安全空间 |狂野湛蓝，暴躁每天")<br>
 
 ## - 常使用的web漏洞靶场
 ---> [xss：：：xss8.cc](https://xss8.cc "XSS平台-XSS安全测试平台")<br>
