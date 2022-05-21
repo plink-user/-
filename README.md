@@ -40,12 +40,12 @@
 ---> [证书搜寻：crt.sh](https://crt.sh "crt.sh | Certificate Search")<br>
 ---> [DNS查询：dnsdumpster.com](https://dnsdumpster.com "DNSdumpster.com - dns recon and research, find and lookup dns records")<br>
 ---> [DNS查询：dnslytics.com](https://dnslytics.com "Online investigation tool - Reverse IP, NS, MX, WHOIS and Search Tools")<br>
----> [反向IP,DNS查询，目标网站测试：viewdns.info](https://viewdns.info "ViewDNS.info - Your one source for DNS related tools!")<br>
+---> [反向IP，子域查询：rapiddns.io](https://rapiddns.io "RapidDNS Rapid DNS Information Collection - Home")<br>
+---> [反向IP，DNS查询，目标网站测试：viewdns.info](https://viewdns.info "ViewDNS.info - Your one source for DNS related tools!")<br>
 ---> [子域名查找：spyse.com](https://spyse.com/tools/subdomain-finder "Subdomain Finder - Quick and Precise Enumeration | Spyse")<br>
 ---> [子域名查找：pentest-tools.com](https://pentest-tools.com/information-gathering/find-subdomains-of-domain "Find Subdomains Online - Pentest-Tools.com")<br>
 ---> [子域查询：securitytrails.com](https://securitytrails.com "SecurityTrails: Data Security, Threat Hunting, and Attack Surface Management Solutions for Security Teams")<br>
 ---> [网站CMS指纹识别：www.yunsee.cn](https://www.yunsee.cn "yunsee.cn-2.0")
-
 
 ## - 常用到的一些网站
 ---> [DNSLOG 注入：ceye.io](http://ceye.io "CEYE - Monitor service for security testing")<br>
